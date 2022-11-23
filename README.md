@@ -1,3 +1,8 @@
+System requirements:
+
+- Python 3.11.0 or newer
+- Pillow 9.3.0 or newer
+
 Instructions:
 
 Download this script and put it in a new folder. Move your provinces.bmp file to that folder. Run cmd from there and execute "python colors.py" command.
